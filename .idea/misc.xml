@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$" />
+  <component name="DialyzerSettings">
+    <option name="currentPltPath" value="C:\Program Files\Erlang OTP\lib\dialyzer-5.1.1" />
+  </component>
+  <component name="RebarSettings">
+    <rebarPath>C:\Program Files\Erlang OTP\bin\rebar3</rebarPath>
+  </component>
+</project>
